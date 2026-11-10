@@ -1,5 +1,6 @@
-# Prévia de teste — Fiat Titano
+# Prévia de teste — Carsey
 
 Site estático com exemplos fictícios. Não é o Carsey de produção e não grava dados.
 
-Página do teste, neste project site: `/teste-titano`.
+- Titano: `/teste-titano`
+- Pesquisa de modelo no cadastro: `/teste-pesquisa`
